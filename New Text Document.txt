@@ -1,0 +1,15 @@
+font-family: 'Open Sans', sans-serif;
+font-family: 'Abril Fatface', cursive;
+
+<div class="p-img">
+                                          <img src="images/mix-1.jpg" alt="mix-1">
+                                    </div>
+                                    <div class="p-img">
+                                          <img src="images/mix-1.jpg" alt="mix-1">
+                                    </div>
+                                    <div class="p-img">
+                                          <img src="images/mix-1.jpg" alt="mix-1">
+                                    </div>
+                                    <div class="p-img">
+                                          <img src="images/mix-1.jpg" alt="mix-1">
+                                    </div>
